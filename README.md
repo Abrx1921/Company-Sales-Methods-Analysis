@@ -5,6 +5,8 @@ Uncover the Key to the Most Effective Sales Strategies for an Office Stationery 
 
 **Date: December 21, 2024**
 
+<img src="supplies_pic.jpg" width="500" height="auto">
+
 :floppy_disk: File: [Python Jupyter Notebook](Product_Sales_Project_Jupyter_Notebook_2.ipynb)
 
 ##
@@ -118,6 +120,3 @@ Align strategies based on customer preferences. For example, consider customers 
 - Include customer demographic details, such as age.
 - Track sales duration to evaluate time-efficiency for each sales method.
 - Record the time of day to identify optimal periods for each sales approach.
-
-
-
